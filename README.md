@@ -1,2 +1,2 @@
-# GreenEnergyProduction-Architecture
+# Architecture
 The architecture of the project
